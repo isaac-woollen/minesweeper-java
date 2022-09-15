@@ -1,0 +1,23 @@
+Easy:
+	Rows = 7
+	Columns = 9
+	Spacing = 6
+	size = 66
+	xCalibration = 123
+	yCalibration = 205
+
+Medium:
+	Rows = 13
+	Columns = 18
+	Spacing = 3
+	size = 35
+	xCalibration = 127
+	yCalibration = 208
+
+Hard:
+	Rows = 22
+	Columns = 25
+	Spacing = 2
+	size = 20
+	xCalibration = 127
+	yCalibration = 208
